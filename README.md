@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Profissional na área de Cloud Computing, combinando pensamento estratégico com execução técnica. Com domínio de Python e formação intensiva pelo AWS re/Start, estou focado em criar e otimizar ambientes na nuvem AWS.
+<p align="center">Profissional na área de Cloud Computing, combinando pensamento estratégico com execução técnica. Com domínio de Python e formação intensiva pelo AWS re/Start, estou focada em criar e otimizar ambientes na nuvem AWS.
   
 #
 
