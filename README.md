@@ -14,7 +14,6 @@
 
 <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtlejQydW5saWthNHlnb2cyNmI3c2NnNHNtNG92cjUwcTlkNnBjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif"  />
 
-
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:anabeatrizgq3@gmail.com)
