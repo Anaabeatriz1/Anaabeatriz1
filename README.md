@@ -12,7 +12,8 @@
   
 #
 
-<img align="right" height="155" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xZndvbWtsNGJ3anFnZmlobTFjamZmeTZjc2RydzZvaDVoY2F0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif"  />
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtlejQydW5saWthNHlnb2cyNmI3c2NnNHNtNG92cjUwcTlkNnBjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif"  />
+
 
 <h3 align="left">Connect with me!</h3>
 
