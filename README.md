@@ -20,6 +20,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/anabeatrizqueiroz1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/anabanana1__/)
 
+<img align="right" height="155" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xZndvbWtsNGJ3anFnZmlobTFjamZmeTZjc2RydzZvaDVoY2F0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif"  />
+
 #
 
 <picture align="center">
@@ -28,9 +30,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anaabeatriz1/Anaabeatriz1/output/github-contribution-grid-snake.svg">
 </picture>
 <br></br>
-
-#
-<img align="right" height="155" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xZndvbWtsNGJ3anFnZmlobTFjamZmeTZjc2RydzZvaDVoY2F0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif"  />
 
 #
 
@@ -50,16 +49,3 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-**Anaabeatriz1/Anaabeatriz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
