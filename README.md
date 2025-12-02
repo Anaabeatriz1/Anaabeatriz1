@@ -12,7 +12,7 @@
   
 #
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtlejQydW5saWthNHlnb2cyNmI3c2NnNHNtNG92cjUwcTlkNnBjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/4ryx66tWEhcAAAAd/pixel-study.gif"  />
 
 <h3 align="left">Connect with me!</h3>
 
