@@ -12,15 +12,13 @@
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" height="155" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xZndvbWtsNGJ3anFnZmlobTFjamZmeTZjc2RydzZvaDVoY2F0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif"  />
 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:anabeatrizgq3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/anabeatrizqueiroz1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/anabanana1__/)
-
-<img align="right" height="155" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xZndvbWtsNGJ3anFnZmlobTFjamZmeTZjc2RydzZvaDVoY2F0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif"  />
 
 #
 
