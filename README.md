@@ -12,7 +12,7 @@
   
 #
 
-<img align="right" height="200" src="https://media1.tenor.com/m/4ryx66tWEhcAAAAd/pixel-study.gif"  />
+<img align="right" height="210" src="https://media1.tenor.com/m/4ryx66tWEhcAAAAd/pixel-study.gif"  />
 
 <h3 align="left">Connect with me!</h3>
 
